@@ -103,7 +103,7 @@ const Contact = () => {
                 </div>
                 <div className="pt-1">
                   <div className="text-xs uppercase tracking-widest text-slate-500 mb-1">Email us at</div>
-                  <div className="text-lg font-bold hover:text-brand-blue transition-colors cursor-pointer">contact@mktechnology.co.th</div>
+                  <div className="text-lg font-bold hover:text-brand-blue transition-colors cursor-pointer">contact@mktech.fyi </div>
                 </div>
               </div>
 
@@ -113,7 +113,7 @@ const Contact = () => {
                 </div>
                 <div className="pt-1">
                   <div className="text-xs uppercase tracking-widest text-slate-500 mb-1">Call us</div>
-                  <div className="text-lg font-bold hover:text-brand-blue transition-colors cursor-pointer">+66 2 123 4567</div>
+                  <div className="text-lg font-bold hover:text-brand-blue transition-colors cursor-pointer">+19176956954</div>
                 </div>
               </div>
 
